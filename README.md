@@ -14,9 +14,6 @@ A modern Android application built with Kotlin and XML that allows users to log 
 
 🌐 Visit External Book Sites
 
-📱 Screenshots
-
-(Include screenshots of login page, book list, review section, rating UI, etc. if available)
 
 🚀 Getting Started
 
@@ -73,7 +70,7 @@ Press Run ▶️ in Android Studio
 📁 app/
 📁 src/
 📁 main/
-📁 java/com/example/bookreview/
+📁 java/com/internshala/bookreview
 📁 res/
 📁 layout/
 📁 drawable/
